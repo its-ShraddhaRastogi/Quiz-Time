@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff9f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .about-container {
+    width: 60%;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-container h1 {
+    text-align: center;
+    color:#ffa500;
+    margin-bottom: 1.5rem;
+  }
+  
+  .about-content p {
+    margin-bottom: 1.5rem;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  @media (max-width: 768px) {
+    .about-container {
+      width: 90%;
+    }
+  }
+  

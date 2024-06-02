@@ -1,0 +1,49 @@
+.title-style {
+    font-family: Courier New, Courier, monospace;
+    font-weight: 900;
+    color: orange;
+}
+.card-text {
+    font-weight: 550;
+    color: #585858;
+    text-align: justify;
+}
+.box-shadow{
+    box-shadow: 0 0 10px rgb(248, 227, 181); 
+    background-color: white;
+    margin-bottom: 3px;
+    
+}
+.card-img {
+    max-width: 25%; 
+    height: auto;
+}
+.card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease; 
+}
+.card:hover {
+    transform: translateY(-5px); 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    background-color: #f3d49a;
+}
+.info-card {
+    background-color: rgba(255, 255, 255, 0.9); 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    border-radius: 10px;
+    padding: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease; 
+}
+
+.info-card:hover {
+    transform: translateY(-5px); 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+.info-card h5 {
+    color: #ffa600;
+    margin-bottom: 10px;
+}
+.info-card p {
+    color: #333; 
+    font-size: 16px;
+}

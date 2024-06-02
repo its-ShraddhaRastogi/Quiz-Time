@@ -1,0 +1,28 @@
+.border-shadow-color {
+    box-shadow: 0 0 10px rgb(248, 227, 181); 
+    background-color: white
+}
+.image-fluid {
+    width: 280px;
+    border-radius: 5px;
+    border: 3px solid transparent;
+    background-color:white
+}
+
+.left-box1{
+    background-color:#ffba15;
+    width: 50%;
+    height: 100% !important;
+}
+.login-box-style , .text-style{
+    font-family: Courier New, Courier, monospace;
+    font-weight: 600;
+    color: orange;
+  }
+  .toggle{
+    cursor: 'pointer'; right: '10px'; top: '50%';transform: 'translateY(-50%)'; position: 'absolute' 
+  }
+  .outerBox {
+    height: auto;
+    
+}

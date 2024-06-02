@@ -1,0 +1,22 @@
+
+.input-field {
+    border: 3px solid transparent; 
+    outline: none; 
+    transition: border-color 0.2s ease; 
+    background-color:rgba(249, 235, 180, 0.2);
+    border-radius: 4.5px;
+    padding-left: 10px; 
+    margin-bottom: 10px;
+    font-family:cursive
+}
+
+.input-field:focus {
+    border-color: orange; 
+}
+.eyeIconStyle {
+    position: 'absolute';
+    top: '50%';
+    right: '8px';
+    transform: 'translateY(-50%)';
+    cursor: 'pointer'
+};

@@ -1,0 +1,21 @@
+"question_id","question_text","subject_id","option1","option2","option3","option4","correct_option","subject_name","subject_id"
+101,What does HTML stand for?,100,Hyper Text Markup Language,Hyperlinks and Text Markup Language,Home Tool Markup Language,Hyper Tool Multi Language,1,Html,100
+102,Which HTML tag is used to define an internal style sheet?,100,<style>,<script>,<css>,<link>,1,Html,100
+103,Who is making the Web standards?,100,Microsoft,Google,Mozilla,The World Wide Web Consortium,4,Html,100
+201,What does CSS stand for?,200,Cascading Style Sheets,Computer Style Sheets,Colorful Style Sheets,Creative Style Sheets,1,Css,200
+202,Which of the following CSS framework is used to create a responsive design?,200, django,rails,bootstrap,larawell,3,Css,200
+203,Which CSS property is used to change the text color of an element?,200,color,text-color,font-color,foreground-color,1,Css,200
+301,What is JavaScript?,300,A programming language,A style sheet language,A markup language,A database language,1,JavaScript,300
+303,JavaScript File Has An Extension of?,300,.java,.js,.javascript,.xml,2,JavaScript,300
+304,Which of the following is not a comparison operator in JavaScript?,300,==,===,!=,=<,4,JavaScript,300
+401, Which of the follwing below live on the heap in java?,400,class,instance variable,method,object,4,Java,400
+402,Which of the following interface is used to declare core methods in java?,400,set,event listener,comparator,collection,4,Java,400
+403,Which of these interface handle sequences?,400,set,list,comparator,collection,2,Java,400
+104,Which HTML tag is used for internal style sheet?,100,Internal,Style,CSS,Internal Style,2,Html,100
+302,Which symbol is used for single-line comments in JavaScript?,300,//,/*,<!--,<---,1,JavaScript,300
+204,"What does the CSS property ""display: inline-block;"" do?",200,It displays an element as an inline-level block container, It displays an element as a block-level container,It displays an element as an inline-level element, It hides an element from the display,1,Css,200
+205,Which CSS property is used to specify the space between the content and its border?,200,margin,padding,border-spacing,space-between,2,Css,200
+305,"What will the following code output-     console.log(1 + ""2"" + ""2"");",300,"122","14","32","312",3,JavaScript,300
+105,Which HTML tag is used to define an unordered list?,100,<ul>,<list>,<ol>,<li>,1,Html,100
+404,Which of the following is a valid declaration of a String object in Java?,400,"String s = ""Hello"";","String s = new String(""Hello"");",Both of the above,None of the above,3,Java,400
+405,"What is the output of the following Java code -    System.out.println(10 + 20 + ""Hello"" + 30 + 40);",400,"30Hello3040","1020Hello3040","30Hello70","1020Hello70",1,Java,400

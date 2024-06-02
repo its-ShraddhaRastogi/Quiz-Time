@@ -1,0 +1,21 @@
+.button.small:hover {
+    background-color: darkorange; 
+   
+}
+.button.small {
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 3px 9px;
+    color: white; 
+    background-color: #ffa500; 
+    border: none; 
+    
+}
+.active_button{
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 3px 9px;
+    color: white; 
+    border: none; 
+    background-color: green !important;
+}

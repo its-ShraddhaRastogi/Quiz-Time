@@ -1,0 +1,46 @@
+
+.table-container {
+    margin-top: 20px;
+}
+
+.table-container table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table-container th {
+    background-color: rgb(254, 192, 75);
+}
+
+.table-container th,
+.table-container td {
+    padding: 10px;
+    text-align: left;
+}
+
+.table-container tbody tr:nth-child(even) {
+    background-color: white;
+}
+
+.table-container tbody tr:nth-child(odd) {
+    background-color: rgb(243, 239, 239);
+}
+.button.small:hover {
+    background-color: darkorange; 
+   
+  }
+  .button.small {
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 3px 9px;
+    color: white; 
+    background-color: orange; 
+    border: none; 
+    
+  }
+  .backButton{
+    display: flex;
+    justify-content: end;
+
+  }
+
